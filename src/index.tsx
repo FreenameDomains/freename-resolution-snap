@@ -15,7 +15,9 @@ const chainIdToName = {
   "eip155:8453": "base",
   "eip155:56": "bsc",
   "eip155:1329": "sei",
-  "eip155:42793": "etherlink"
+  "eip155:42793": "etherlink",
+  "eip155:88888": "chiliz",
+  "eip155:43114": "avalanche"
 };
 
 /**
