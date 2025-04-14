@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Web3 domain resolver by freename.io.",
   "proposedName": "Freename Web3 Resolver",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/FreenameDomains/freename-resolution-snap.git"
   },
   "source": {
-    "shasum": "q9c0f1XF7v6FSvQ9UPwnBnVOEsXq7eQ1ih5jFN/8QCA=",
+    "shasum": "U/l83hOSMVwBr4Y9AD76Nlm1fNM5s3wNwiyce75IR1Q=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
@@ -28,7 +28,8 @@
         "eip155:1329",
         "eip155:42793",
         "eip155:88888",
-        "eip155:43114"
+        "eip155:43114",
+        "eip155:2741"
       ]
     }
   },
