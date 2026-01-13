@@ -18,7 +18,8 @@ const chainIdToName = {
   "eip155:42793": "etherlink",
   "eip155:88888": "chiliz",
   "eip155:43114": "avalanche",
-  "eip155:2741": "abstract"
+  "eip155:2741": "abstract",
+  "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": "solana-mainnet"
 };
 
 /**

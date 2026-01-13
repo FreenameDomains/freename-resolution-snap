@@ -7,7 +7,7 @@
     "url": "https://github.com/FreenameDomains/freename-resolution-snap.git"
   },
   "source": {
-    "shasum": "U/l83hOSMVwBr4Y9AD76Nlm1fNM5s3wNwiyce75IR1Q=",
+    "shasum": "6gq/oULZGOYzhVbSRhOVQmmKGc9VQIo+cixurn0+bZw=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
@@ -29,7 +29,8 @@
         "eip155:42793",
         "eip155:88888",
         "eip155:43114",
-        "eip155:2741"
+        "eip155:2741",
+        "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp"
       ]
     }
   },
